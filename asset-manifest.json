@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce04c6c1.chunk.css",
+    "main.js": "/static/js/main.7e784c2f.chunk.js",
+    "main.js.map": "/static/js/main.7e784c2f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9412c5a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9412c5a0.js.map",
+    "static/css/2.4659568d.chunk.css": "/static/css/2.4659568d.chunk.css",
+    "static/js/2.56bc3843.chunk.js": "/static/js/2.56bc3843.chunk.js",
+    "static/js/2.56bc3843.chunk.js.map": "/static/js/2.56bc3843.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4659568d.chunk.css.map": "/static/css/2.4659568d.chunk.css.map",
+    "static/css/main.ce04c6c1.chunk.css.map": "/static/css/main.ce04c6c1.chunk.css.map",
+    "static/js/2.56bc3843.chunk.js.LICENSE.txt": "/static/js/2.56bc3843.chunk.js.LICENSE.txt",
+    "static/media/aboutUsImg.b27cf812.jpg": "/static/media/aboutUsImg.b27cf812.jpg",
+    "static/media/bootstrap-plain.cbcfd46e.svg": "/static/media/bootstrap-plain.cbcfd46e.svg",
+    "static/media/chatapp.821ff35d.png": "/static/media/chatapp.821ff35d.png",
+    "static/media/css3-original.39769a8b.svg": "/static/media/css3-original.39769a8b.svg",
+    "static/media/ecommerce.effd6cc4.png": "/static/media/ecommerce.effd6cc4.png",
+    "static/media/foodapp.54cb9d88.png": "/static/media/foodapp.54cb9d88.png",
+    "static/media/git-plain.45ffb8cc.svg": "/static/media/git-plain.45ffb8cc.svg",
+    "static/media/goalSetter.13781547.png": "/static/media/goalSetter.13781547.png",
+    "static/media/homeImg.50b0ad7a.png": "/static/media/homeImg.50b0ad7a.png",
+    "static/media/html5-original.8664168d.svg": "/static/media/html5-original.8664168d.svg",
+    "static/media/javascript-original.4c1b5332.svg": "/static/media/javascript-original.4c1b5332.svg",
+    "static/media/materialui-original.87264df2.svg": "/static/media/materialui-original.87264df2.svg",
+    "static/media/mongodb-original.6835c61a.svg": "/static/media/mongodb-original.6835c61a.svg",
+    "static/media/mysql-original.ebf5eeae.svg": "/static/media/mysql-original.ebf5eeae.svg",
+    "static/media/nodejs-original.10c9e2aa.svg": "/static/media/nodejs-original.10c9e2aa.svg",
+    "static/media/react-original.4e0c9700.svg": "/static/media/react-original.4e0c9700.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9412c5a0.js",
+    "static/css/2.4659568d.chunk.css",
+    "static/js/2.56bc3843.chunk.js",
+    "static/css/main.ce04c6c1.chunk.css",
+    "static/js/main.7e784c2f.chunk.js"
+  ]
+}
