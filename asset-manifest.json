@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9a53d3b.css",
+    "main.js": "/static/js/main.4c13687b.js",
+    "static/media/foodapp.png": "/static/media/foodapp.54cb9d88c8c450f36b8f.png",
+    "static/media/aboutUsImg.jpg": "/static/media/aboutUsImg.b27cf8127f6d0af33a5e.jpg",
+    "static/media/homeImg.png": "/static/media/homeImg.50b0ad7a654f0dd063f6.png",
+    "static/media/ecommerce.png": "/static/media/ecommerce.effd6cc49c0e24e5fb82.png",
+    "static/media/goalSetter.png": "/static/media/goalSetter.13781547ef90c7feaf91.png",
+    "static/media/chatapp.png": "/static/media/chatapp.821ff35d7283e6cb9625.png",
+    "static/media/mongodb-original.svg": "/static/media/mongodb-original.6835c61a518a732eb8318d43dfe8f700.svg",
+    "static/media/mysql-original.svg": "/static/media/mysql-original.ebf5eeaef302d497971c5bbd898566e4.svg",
+    "static/media/react-original.svg": "/static/media/react-original.4e0c97009b885bfa75c5412262a46f5f.svg",
+    "static/media/nodejs-original.svg": "/static/media/nodejs-original.10c9e2aa0ca7edf36fceae25fec038a1.svg",
+    "static/media/javascript-original.svg": "/static/media/javascript-original.4c1b5332c1b1057928f6f06cf972c91c.svg",
+    "static/media/bootstrap-plain.svg": "/static/media/bootstrap-plain.cbcfd46ef2077b9ae2f28fa353598e8a.svg",
+    "static/media/git-plain.svg": "/static/media/git-plain.45ffb8cc77681eed294253a776fe6c37.svg",
+    "static/media/css3-original.svg": "/static/media/css3-original.39769a8bd378bf410d6b381a8d88fa35.svg",
+    "index.html": "/index.html",
+    "static/media/html5-original.svg": "/static/media/html5-original.8664168d5bc90b1a24396f85aadbf623.svg",
+    "static/media/materialui-original.svg": "/static/media/materialui-original.87264df237ee700ba78bb58ff701a6d3.svg",
+    "main.a9a53d3b.css.map": "/static/css/main.a9a53d3b.css.map",
+    "main.4c13687b.js.map": "/static/js/main.4c13687b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a53d3b.css",
+    "static/js/main.4c13687b.js"
+  ]
+}
